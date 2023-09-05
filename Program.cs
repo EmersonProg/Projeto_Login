@@ -29,5 +29,5 @@ Após finalizarmos esse código vamos entende-lo e melhorar ele para praticarmos
 
 
 
-string usuario = Admin
-string senha = "123456"
+string usuario = "Admin";
+string senha = "123456";
