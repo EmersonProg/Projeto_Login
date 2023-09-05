@@ -24,3 +24,10 @@ depois da terceira parar o loop e mostrar usuário e senha invalidos
 
 *************************************************************************************
 Após finalizarmos esse código vamos entende-lo e melhorar ele para praticarmos mais ok!
+
+*/
+
+
+
+string usuario = Admin
+string senha = "123456"
